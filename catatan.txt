@@ -1,0 +1,5 @@
+1. Editor di jspreadsheet data alternatif belum jalan fungsinya
+2. Upload shp per baris
+3. Tampilkan grafik batang atau garis berdasarkan skor yang ada
+4. Tampilkan peta dari shp yang sudah ada
+5. Tambah Kabupaten/Kota
